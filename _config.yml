@@ -1,7 +1,8 @@
 # Menus
 menu:
-  Publication: publication
-  Blog: archives
+  Home: .
+  Software: code
+  Blog: blog
 #  Home: .
 #  Archives: archives
 #  Categories: categories
