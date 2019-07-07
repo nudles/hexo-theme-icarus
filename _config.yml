@@ -1,7 +1,7 @@
 # Menus
-menu:
-  Home: .
-  Blog: blog
+#menu:
+#  Home: .
+#  Blog: blog
 #  Home: .
 #  Archives: archives
 #  Categories: categories
@@ -78,4 +78,3 @@ miscellaneous:
         Apache SINGA: http://singa.apache.org
         DBSystem: http://www.comp.nus.edu.sg/~dbsystem
         Foodlg: http://foodlg.com
-
