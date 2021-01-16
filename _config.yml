@@ -24,7 +24,7 @@ customize:
         location: Harbin, China
         follow: https://github.com/ppoffice/
     highlight: monokai
-    sidebar: right # sidebar position, options: left, right
+    # sidebar: right # sidebar position, options: left, right
     thumbnail: false # enable posts thumbnail, options: true, false
     favicon: # path to favicon
     social_links:
@@ -75,6 +75,6 @@ miscellaneous:
         twitter_id:
         google_plus:
     links:
-        Apache SINGA: http://singa.apache.org
-        DBSystem: http://www.comp.nus.edu.sg/~dbsystem
-        Foodlg: http://foodlg.com
+        # Apache SINGA: http://singa.apache.org
+        # DBSystem: http://www.comp.nus.edu.sg/~dbsystem
+        # Foodlg: http://foodlg.com
